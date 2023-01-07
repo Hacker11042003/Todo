@@ -1,0 +1,21 @@
+.add{
+    display: flex;
+    justify-content: center;
+    gap:5rem; 
+}
+.add input{
+    padding: 10px 100px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 1px 1px 15px 1px #000;
+
+}
+.add button{
+    padding: 0 50px;
+    border: none;
+    border-radius: 10px;
+}
+.add button:hover{
+    background-color: chartreuse;
+    color: #fff;
+}

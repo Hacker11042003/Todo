@@ -1,0 +1,7 @@
+.list ul{
+     list-style: none;
+}
+.list{
+     display: flex;
+     justify-content: space-between;
+}
