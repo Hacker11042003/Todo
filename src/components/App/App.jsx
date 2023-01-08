@@ -84,7 +84,7 @@ class App extends Component {
         onCompleted = {this.completeTodo}
         onImportand = {this.impotandTodo}
         />
-        <TodoAdd onAddTodo = {this.addTodo}/>git 
+        <TodoAdd onAddTodo = {this.addTodo}/>
       </div>
     );
   }
